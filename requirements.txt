@@ -1,0 +1,7 @@
+pandas>=2.1
+numpy>=1.26
+scikit-learn>=1.4
+rapidfuzz>=3.6
+networkx>=3.2
+streamlit>=1.40
+pytest>=8.0
